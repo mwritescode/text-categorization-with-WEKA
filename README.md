@@ -1,2 +1,2 @@
-# text-categorization-with-WEKA
-This is repository contains the data used for our paper 'Text categorization with WEKA: a survey'
+# Text-categorization-with-WEKA
+This is repository contains the data used for our paper _Text categorization with WEKA: a survey_.

@@ -7,3 +7,8 @@ Moreover, the [stopword_list.txt](https://github.com/mwritescode/text-categoriza
 Lastly, the second text categorization example shown in the paper focuses on detecting the type of dish a certain recipe is about. The dataset used for this part can be found in the [Dishes](https://github.com/mwritescode/text-categorization-with-WEKA/tree/main/data/datasets/Dishes) folder.
 
 All our experiments were conducted using WEKA version 3.8.4.
+
+-----
+
+#### Announcement:
+As of 16-04-2021 our paper can be found on Elsevier's journal _Machine Learning with Applications_ and can be accessed [here](https://www.sciencedirect.com/science/article/pii/S2666827021000141).
